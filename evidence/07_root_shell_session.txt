@@ -1,0 +1,14 @@
+������!����
+
+
+BusyBox v1.01 (2014.11.27-07:17+0000) Built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # 
+/ # echo ROP_ROOT_SHELL_OK
+ROP_ROOT_SHELL_OK
+/ # cat /tmp/rc_proof
+RCE_VIA_TFTP_ROP
+/ # uname -a
+Linux DIR-505 4.1.17+ #17 Sat Oct 31 17:56:16 KST 2020 mips unknown
+/ # 

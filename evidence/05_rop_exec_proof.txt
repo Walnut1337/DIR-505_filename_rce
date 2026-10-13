@@ -1,0 +1,9 @@
+ls -la /tmp/q /tmp/x /tmp/rc_proof /tmp/rc_uname; echo; cat /tmp/rc_proof; c at /tmp/rc_uname
+-rw-r--r--    1 root     root            0 Jan  1 18:15 /tmp/q
+-rw-r--r--    1 root     root           17 Jan  1 18:16 /tmp/rc_proof
+-rw-r--r--    1 root     root           68 Jan  1 18:16 /tmp/rc_uname
+-rw-r--r--    1 root     root           86 Jan  1 18:15 /tmp/x
+
+RCE_VIA_TFTP_ROP
+Linux DIR-505 4.1.17+ #17 Sat Oct 31 17:56:16 KST 2020 mips unknown
+/ # 

@@ -1,0 +1,12 @@
+[65635.833068] $28   : 77270660 7fe79950 00000204 deadbeef
+[65635.833148] Hi    : 000001ea
+[65635.833190] Lo    : 000299b4
+[65635.833414] epc   : deadbeef 0xdeadbeef
+[65635.833479] ra    : deadbeef 0xdeadbeef
+[65635.833531] Status: 0000a413	USER EXL IE 
+[65635.833596] Cause : 10800010
+[65635.833637] BadVA : deadbeee
+[65635.833678] PrId  : 00019300 (MIPS 24Kc)
+/sbin/iptables
+Bad argument `flush'
+Try `iptables -h' or 'iptables --help' for more information.

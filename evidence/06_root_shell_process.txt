@@ -1,0 +1,3 @@
+ps | grep -E 'telnetd -p 2327' | grep -v grep
+19965 root        720 S   telnetd -p 2327 -l /bin/sh 
+/ # 

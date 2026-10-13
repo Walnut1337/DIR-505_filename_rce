@@ -1,0 +1,10 @@
+[65013.361368] epc   : 41414141 0x41414141
+[65013.361440] ra    : 41414141 0x41414141
+[65013.361498] Status: 0000a413	USER EXL IE 
+[65013.361628] Cause : 10800008
+[65013.361680] BadVA : 41414140
+[65013.361753] PrId  : 00019300 (MIPS 24Kc)
+/sbin/iptables
+Bad argument `flush'
+Try `iptables -h' or 'iptables --help' for more information.
+[65017.204030] firmadyne: sys_socket[PID: 18558 (iptables)]: family:2, type:3, protocol:255
